@@ -15,6 +15,7 @@
   "author": "Chandan",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^5.1.0"
   },
   "devDependencies": {
